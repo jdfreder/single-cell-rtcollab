@@ -1,0 +1,23 @@
+{
+  "name": "single-cell-rtcollab",
+  "version": "0.0.0",
+  "description": "Realtime collaboration of a single cell environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tests are cool, we should do those'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdfreder/single-cell-rtcollab.git"
+  },
+  "keywords": [
+    "realtime",
+    "jupyter"
+  ],
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jdfreder/single-cell-rtcollab/issues"
+  },
+  "homepage": "https://github.com/jdfreder/single-cell-rtcollab#readme"
+}
